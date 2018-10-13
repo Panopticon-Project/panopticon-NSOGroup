@@ -7,3 +7,5 @@ https://www.nytimes.com/2018/08/31/world/middleeast/hacking-united-arab-emirates
 https://www.securityweek.com/lawsuit-lays-bare-israel-made-hack-tools-mideast-mexico
 
 https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/
+
+https://www.securityweek.com/report-reveals-widespread-use-pegasus-spyware
