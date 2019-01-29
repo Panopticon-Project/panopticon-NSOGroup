@@ -9,3 +9,5 @@ https://www.securityweek.com/lawsuit-lays-bare-israel-made-hack-tools-mideast-me
 https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-to-operations-in-45-countries/
 
 https://www.securityweek.com/report-reveals-widespread-use-pegasus-spyware
+
+https://www.securityweek.com/undercover-agents-target-cybersecurity-watchdog
