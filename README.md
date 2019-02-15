@@ -11,3 +11,5 @@ https://citizenlab.ca/2018/09/hide-and-seek-tracking-nso-groups-pegasus-spyware-
 https://www.securityweek.com/report-reveals-widespread-use-pegasus-spyware
 
 https://www.securityweek.com/undercover-agents-target-cybersecurity-watchdog
+
+https://www.securityweek.com/undercover-spy-exposed-nyc-was-1-many
