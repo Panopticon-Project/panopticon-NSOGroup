@@ -17,3 +17,5 @@ https://www.securityweek.com/undercover-spy-exposed-nyc-was-1-many
 https://www.darkreading.com/threat-intelligence/apt-attacks-on-mobile-rapidly-emerging/d/d-id/1331746
 
 https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html
+
+https://www.securityweek.com/mysterious-operative-haunted-kaspersky-critics 
