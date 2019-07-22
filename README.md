@@ -21,3 +21,5 @@ https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter
 https://www.securityweek.com/mysterious-operative-haunted-kaspersky-critics 
 
 https://www.securityweek.com/london-gallery-chief-quits-after-israel-spyware-report
+
+https://www.securityweek.com/israel-spyware-firm-can-mine-data-social-media-ft
