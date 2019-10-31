@@ -23,3 +23,5 @@ https://www.securityweek.com/mysterious-operative-haunted-kaspersky-critics
 https://www.securityweek.com/london-gallery-chief-quits-after-israel-spyware-report
 
 https://www.securityweek.com/israel-spyware-firm-can-mine-data-social-media-ft
+
+https://www.wired.com/story/whatsapp-nso-group-lawsuit/
