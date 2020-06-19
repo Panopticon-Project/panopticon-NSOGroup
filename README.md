@@ -25,3 +25,5 @@ https://www.securityweek.com/london-gallery-chief-quits-after-israel-spyware-rep
 https://www.securityweek.com/israel-spyware-firm-can-mine-data-social-media-ft
 
 https://www.wired.com/story/whatsapp-nso-group-lawsuit/
+
+https://www.cyberscoop.com/india-spyware-nso-group-amnesty-international-citizen-lab/
