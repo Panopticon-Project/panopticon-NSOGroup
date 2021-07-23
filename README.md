@@ -29,3 +29,5 @@ https://www.wired.com/story/whatsapp-nso-group-lawsuit/
 https://www.cyberscoop.com/india-spyware-nso-group-amnesty-international-citizen-lab/
 
 https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/
+
+https://www.wired.com/story/nso-group-hacks-ios-android-observability/
