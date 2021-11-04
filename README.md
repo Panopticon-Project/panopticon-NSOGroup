@@ -31,3 +31,5 @@ https://www.cyberscoop.com/india-spyware-nso-group-amnesty-international-citizen
 https://citizenlab.ca/2020/12/the-great-ipwn-journalists-hacked-with-suspected-nso-group-imessage-zero-click-exploit/
 
 https://www.wired.com/story/nso-group-hacks-ios-android-observability/
+
+https://www.bleepingcomputer.com/news/security/us-sanctions-nso-group-and-three-others-for-spyware-and-exploit-sales/
