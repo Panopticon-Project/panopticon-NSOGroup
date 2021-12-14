@@ -35,3 +35,5 @@ https://www.wired.com/story/nso-group-hacks-ios-android-observability/
 https://www.bleepingcomputer.com/news/security/us-sanctions-nso-group-and-three-others-for-spyware-and-exploit-sales/
 
 https://www.theguardian.com/world/2021/nov/08/palestinian-activists-mobile-phones-hacked-by-nso-says-report
+
+https://www.bitdefender.com/blog/hotforsecurity/us-state-department-iphones-infected-with-pegasus-spyware-report/
