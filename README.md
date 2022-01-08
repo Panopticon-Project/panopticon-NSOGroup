@@ -39,3 +39,5 @@ https://www.theguardian.com/world/2021/nov/08/palestinian-activists-mobile-phone
 https://www.bitdefender.com/blog/hotforsecurity/us-state-department-iphones-infected-with-pegasus-spyware-report/
 
 https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis/
+
+https://www.securityweek.com/rights-group-verifies-polish-senator-was-hacked-spyware
