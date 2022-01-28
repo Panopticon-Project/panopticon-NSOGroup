@@ -45,3 +45,5 @@ https://www.securityweek.com/rights-group-verifies-polish-senator-was-hacked-spy
 https://www.securityweek.com/rights-group-says-lebanese-staffer-targeted-nso-spyware
 
 https://www.securityweek.com/two-more-poles-identified-victims-hacking-spyware
+
+https://techcrunch.com/2021/11/24/apple-nso-hacking-notify/
