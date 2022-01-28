@@ -43,3 +43,5 @@ https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis/
 https://www.securityweek.com/rights-group-verifies-polish-senator-was-hacked-spyware
 
 https://www.securityweek.com/rights-group-says-lebanese-staffer-targeted-nso-spyware
+
+https://www.securityweek.com/two-more-poles-identified-victims-hacking-spyware
