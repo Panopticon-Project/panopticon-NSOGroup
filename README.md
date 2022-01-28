@@ -41,3 +41,5 @@ https://www.bitdefender.com/blog/hotforsecurity/us-state-department-iphones-infe
 https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis/
 
 https://www.securityweek.com/rights-group-verifies-polish-senator-was-hacked-spyware
+
+https://www.securityweek.com/rights-group-says-lebanese-staffer-targeted-nso-spyware
