@@ -1,4 +1,5 @@
 # panopticon-NSOGroup
+https://www.securityweek.com/finnish-diplomats-targeted-pegasus-spyware-ministry
 
 https://www.securityweek.com/israeli-lawyer-hungarian-rights-group-target-pegasus-spyware
 
