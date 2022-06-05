@@ -55,3 +55,5 @@ https://www.securityweek.com/two-more-poles-identified-victims-hacking-spyware
 https://techcrunch.com/2021/11/24/apple-nso-hacking-notify/
 
 https://www.securityweek.com/nso-turns-us-supreme-court-immunity-whatsapp-suit
+
+https://www.securityweek.com/dutch-used-pegasus-spyware-most-wanted-criminal-report
