@@ -59,3 +59,5 @@ https://www.securityweek.com/nso-turns-us-supreme-court-immunity-whatsapp-suit
 https://www.securityweek.com/dutch-used-pegasus-spyware-most-wanted-criminal-report
 
 https://www.politico.eu/article/pegasus-use-5-eu-countries-nso-group-admit/
+
+https://www.technologyreview.com/2022/06/27/1054884/the-hacking-industry-faces-the-end-of-an-era/
