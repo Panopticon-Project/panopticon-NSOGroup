@@ -63,3 +63,9 @@ https://www.politico.eu/article/pegasus-use-5-eu-countries-nso-group-admit/
 https://www.technologyreview.com/2022/06/27/1054884/the-hacking-industry-faces-the-end-of-an-era/
 
 https://www.reuters.com/technology/exclusive-eu-found-evidence-employee-phones-compromised-with-spyware-letter-2022-07-27/
+
+https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/
+
+https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-2/
+
+https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-3/
